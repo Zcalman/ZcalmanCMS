@@ -1,0 +1,58 @@
+/* CSS */
+/* Awesome stylish code here */
+
+body {
+	background-color:#d4d0cd;
+	font-family:arial;
+	overflow:scroll;
+	height:70px;
+	float:left;
+}
+h1 {
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	color:#000;
+	display:block;
+	height:40px;
+}
+#WindowContent {
+	float:left;
+	width:820px;
+	margin-top:10px;
+	padding-top:10px;
+	padding-left:10px;
+	height:553px;
+	overflow:auto;
+	border-top:solid #999 1px;
+	background-color:#eeeeee;
+}
+.frame {
+	float:left;
+	width:788px;
+	border:solid #999 1px;
+	margin-bottom:10px;
+	padding:10px;
+	padding-top:0px;
+}
+.frame table {
+	width:100%;
+	float:left;
+	margin-left:10px;
+}
+.frame table tr td {
+	float:left;
+	margin-bottom:5px;
+	min-width:150px;
+}
+h2 {
+	margin-left:20px;
+	margin-top:5px;
+	color:#000;
+}
+.button {
+	margin-bottom:10px;
+}
+.submitbutton {
+	margin-top:5px;
+}

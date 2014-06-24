@@ -1,0 +1,11 @@
+pages/admin/page.php
+pages/admin/new.php
+pages/admin/getPageSlug.php
+pages/admin/getNewsSlug.php
+pages/admin/save.php
+
+
+SQL
+Lägg till fält form i `pages`: ALTER TABLE  `sections_pages` ADD  `form` INT NOT NULL DEFAULT  '0';
+
+TEMAT måste ha en form.php (uppdateras manuellt)

@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.gallerythumb {
+	max-width:120px;
+	max-height:80px;
+	float:left;
+	margin:3px;
+	border:2px solid #666;
+}
+
+.gallerythumb:hover {
+	border:2px solid #093;
+	cursor:pointer;
+}
+.gallerylink {
+	margin:10px;
+	float:none;
+	text-decoration:none;
+}
+.activelink {
+	font-size:24px;
+	color:#666 !important;
+	font-weight:normal;
+}
+.inactivelink {
+	font-size:18px;
+	color:#093 !important;
+	font-weight:bold;
+}
+.inactivelink:hover {
+	text-decoration:underline;
+}
+.albumlink {
+	margin-left:10px;
+	margin-top:10px;
+	font-size:10pt;
+	color:#666;
+}
+.new_albumlink {
+	margin-left:10px;
+	margin-bottom:10px;
+	font-size:10pt;
+}
+.new_albumlink a {
+	color:#093;
+}
+.popup {
+	display:none;
+}

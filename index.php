@@ -1,0 +1,1 @@
+<?PHP require("core/startup.php"); ?>

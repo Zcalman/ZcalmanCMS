@@ -1,0 +1,31 @@
+/* CSS */
+
+.pageNav {
+	float:left;
+}
+.pageNav div {
+	float:left;
+	cursor:pointer;
+	display:block;
+	margin:5px;
+	font-size:10pt;
+	color:#1869a8;
+}
+.pageNav div:hover {
+	text-decoration:underline;
+}
+.pageNav .currentpagelink {
+	color:#000000;
+	font-weight:bold;
+	cursor:default;
+}
+.pageNav .currentpagelink:hover {
+	text-decoration:none;
+}
+
+.pageNav .nextlink {
+	font-weight:bold;
+}
+.pageNav .lastlink {
+	font-weight:bold;
+}

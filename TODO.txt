@@ -1,0 +1,43 @@
+Just nu: 
+
+Installation (Förtsagångensida) (ZimabCMS)
+
+Saker som ska genomföras:
+Huvudlänkar i undermenyer ska automatiskt få länken #
+Inställning i tema för bredd på texteditor.
+Förhandsgranska tema - Börja med htaccess
+Adminpanelens startsida
+Ändra lösenordskryptering till "bcrypt"
+Utseende på popups i RTE
+
+
+Låg prio:
+Runda hörn vid radering av sista post.
+Kunna avaktivera Rewwrite av url
+Kunna ändra temafiler i webbläsaren
+Kopiera knapp för URL i dokumentinfo.
+Retur vid inloggning (sida|opt1|opt2)
+
+
+Idéer:
+Adminpanel i toppen av vanliga sidan när man är inloggad.
+Spara inlogg(Facebook-stil + säkerhetsrisker)
+Kategorier till nyheter
+Kunna välja standardformat på datum
+Pagenavigering
+Live-editering
+
+
+Sista innan klar version:
+
+
+Buggar:
+Skapa "Lägga till länk i menyn" manual
+
+
+
+Fixade buggar:
+ÅÄÖ blir små i texteditorn. Fixad
+Lustiga mellanslag från MAC gör att texteditorn inte syns i adminpanelen. Fixad
+Ej scrolla i bildarkiv i IE 11. Fixad
+Bilduppladdning i IE 11. Fixad

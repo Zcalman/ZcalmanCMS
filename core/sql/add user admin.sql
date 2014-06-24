@@ -1,0 +1,1 @@
+INSERT INTO `userbase` (`id`, `username`, `password`, `email`, `userclass`, `name`, `temp_password`, `temp_password_date`, `temp_password_key`) VALUES (NULL, 'Admin', '5f4dcc3b5aa765d61d8327deb882cf99', 'email@epost.se', '1', 'Administratör', '', '', '');

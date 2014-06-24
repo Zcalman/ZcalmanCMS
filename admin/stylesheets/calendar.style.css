@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+.calendarContent {
+	border: 4px #000 solid;
+	width:652px;
+	float:left;
+	font-size:12pt;
+}
+.calendarTop {
+	background-color:#64abe2;
+	float:left;
+	width:652px;
+	height:25px;
+}
+.weekLabel {
+	color:#000;
+	font-weight:bold;
+	float:left;
+	width:35px;
+	text-align:center;
+	height:23px;
+	padding-top:2px;
+	border:0px;
+	border-right:1px #000 solid;
+}
+.weekNumber {
+	color:#000;
+	float:left;
+	width:35px;
+	text-align:center;
+	height:40px;
+	padding-top:20px;
+	border:0px;
+	background-color:#64abe2;
+}
+.dayName {
+	color:#000;
+	float:left;
+	width:88px;
+	height:23px;
+	padding-top:2px;
+	text-align:center;
+}
+.regularDay {
+	float:left;
+	width:87px;
+	height:59px;
+	border:0px;
+	border-top:1px #000 solid;
+	border-left:1px #000 solid;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+}
+.fakeDay {
+	color:#999;
+	float:left;
+	width:87px;
+	height:59px;
+	border:0px;
+	border-top:1px #000 solid;
+	border-left:1px #000 solid;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+}
+.toDay {
+	float:left;
+	width:87px;
+	height:59px;
+	border:0px;
+	border-top:1px #000 solid;
+	border-left:1px #000 solid;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+	color:#1869a8;
+}
+.noteDay {
+	background-color:#9bcff8;
+	float:left;
+	width:87px;
+	height:59px;
+	border:0px;
+	border-top:1px #000 solid;
+	border-left:1px #000 solid;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+}
+.toDayNoteDay {
+	background-color:#9bcff8;
+	float:left;
+	width:87px;
+	height:59px;
+	border:0px;
+	border-top:1px #000 solid;
+	border-left:1px #000 solid;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+	color:#1869a8;
+}
+.regularDay:hover {
+	background-color:#adF;
+}
+.noteDay:hover {
+	background-color:#adF;
+}
+.toDay:hover {
+	background-color:#adF;
+}
+.toDayNoteDay:hover {
+	background-color:#adF;
+}

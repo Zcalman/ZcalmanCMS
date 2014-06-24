@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+#loginmain {
+	width:459px;
+	margin:0 auto;
+	margin-top:7%;
+}
+#logintopbar {
+	width:423px;
+	height:23px;
+	float:left;
+	margin-left:18px;
+	background-image:url(../images/theme/logintop.png);
+}
+#logindiv {
+	float:left;
+	width:459px;
+	background-position:center;
+	background-image:url(../images/theme/loginbackground.png);
+	background-repeat:repeat-y;
+}
+#loginfooter {
+	width:423px;
+	height:21px;
+	float:left;
+	margin-left:18px;
+	background-image:url(../images/theme/loginfooter.png);
+}
+#titlearrow {
+	width:246px;
+	float:left;
+	height:48px;
+	padding-left:30px;
+	padding-top:9px;
+	font-size:18px;
+	font-weight:bold;
+	background-image:url(../images/theme/blue_arrow.png);
+	margin-top:5px;
+}
+#logincontent {
+	width:359px;
+	float:left;
+	margin-left:50px;
+}
+#logincontent span {
+	width:300px;
+	float:left;
+	font-size:12px;
+	color:#333;
+	margin-left:22px;
+	margin-bottom:10px;
+}
+#loginexitbutton {
+	background-image:url(../images/theme/loginexit_inactive.png);
+	width:49px;
+	height:18px;
+	float:left;
+	cursor:pointer;
+	margin-left:93px;
+}
+#loginexitbutton:hover {
+	background-image:url(../images/theme/logout_active.png);
+}
+#loginbutton {
+	margin-bottom:6px;
+	margin-top:2px;
+	float:right !important;
+}
+.textfield {
+	width:300px;
+	margin-left:22px;
+	margin-bottom:15px;
+}
+#lostpwlink {
+	float:left;
+	color:#333;
+	font-size:12px;
+	text-decoration:none;
+	margin-top:25px;
+}
+#lostpwlink:hover {
+	text-decoration:underline;
+}
+#errormessage {
+	margin:0 auto;
+	margin-bottom:10px;
+	width:380px;
+	background-color:#fafed1;
+	padding:5px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:1px solid #feffb6;
+	font-size:14px;
+	color:#ea9191;
+}

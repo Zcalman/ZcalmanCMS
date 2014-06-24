@@ -1,0 +1,50 @@
+#######################################################
+ Update to version 3.07 started 2012-09-18 11:58:14
+#######################################################
+Delete file: admin/images/arrow_down.png
+File successfully deleted: admin/images/arrow_down.png
+Delete file: admin/images/arrow_left.png
+File successfully deleted: admin/images/arrow_left.png
+Delete file: admin/images/arrow_right.png
+File successfully deleted: admin/images/arrow_right.png
+Delete file: admin/images/arrow_up.png
+File successfully deleted: admin/images/arrow_up.png
+Delete file: admin/images/dagbg.png
+File successfully deleted: admin/images/dagbg.png
+Delete file: admin/images/loggainbg.png
+File successfully deleted: admin/images/loggainbg.png
+Delete file: admin/images/loginbtn.png
+File successfully deleted: admin/images/loginbtn.png
+Delete file: admin/images/loginbtnhover.png
+File successfully deleted: admin/images/loginbtnhover.png
+Delete file: admin/images/loginfalt.png
+File successfully deleted: admin/images/loginfalt.png
+Delete file: admin/images/menyhover.png
+File successfully deleted: admin/images/menyhover.png
+Delete file: admin/images/menyknapp.png
+File successfully deleted: admin/images/menyknapp.png
+Delete file: admin/images/new_note.png
+File successfully deleted: admin/images/new_note.png
+Delete file: admin/images/new_notedown.png
+File successfully deleted: admin/images/new_notedown.png
+Delete file: admin/images/normalfalt.png
+File successfully deleted: admin/images/normalfalt.png
+Delete file: admin/images/searchfield.png
+File successfully deleted: admin/images/searchfield.png
+Delete file: admin/images/smallbutton.png
+File successfully deleted: admin/images/smallbutton.png
+Delete file: admin/images/smallbuttondown.png
+File successfully deleted: admin/images/smallbuttondown.png
+Delete file: admin/images/smallfalt.png
+File successfully deleted: admin/images/smallfalt.png
+Delete file: admin/images/topbar.png
+File successfully deleted: admin/images/topbar.png
+Delete file: admin/images/theme/adminpanel.png
+File successfully deleted: admin/images/theme/adminpanel.png
+Successful transfer of data to file: version.php
+#######################################################
+ Update to version 3.07 succeeded!
+#######################################################
+
+
+
